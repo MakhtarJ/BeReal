@@ -32,7 +32,10 @@ The following **additional** features are implemented:
 
 
 
-https://github.com/MakhtarJ/BeReal/assets/156578739/471c0742-8d74-42cf-ad70-10955ba98808
+
+https://github.com/MakhtarJ/BeReal/assets/156578739/d5b0bb2a-5470-48d4-b0ed-211486b56f53
+
+
 
 
 
